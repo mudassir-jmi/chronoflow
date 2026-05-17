@@ -34,7 +34,7 @@ A modern Stopwatch and Timer application built with React, Tailwind CSS, and Fra
 
 ## 📸 Screenshots
 
-Add screenshots here.
+![Stopwatch](public/stopwatch.png)
 
 ## ⚡ Installation
 
@@ -44,9 +44,8 @@ npm run dev
 ```
 
 ## 🌍 Live Demo
-
-Add your deployed link here.
+(https://chronoflow-nu.vercel.app/)
 
 ## 📂 GitHub Repository
 
-Add your repository link here.
+(https://github.com/mudassir-jmi/chronoflow)
